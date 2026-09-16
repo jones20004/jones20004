@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Jones 👋
 
-<!--
-**jones20004/jones20004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an M.S. Mechanical Engineering student at Purdue University interested in robotics, mechatronics, autonomous systems, and intelligent manipulation.
 
-Here are some ideas to get you started:
+My focus is on developing practical robotics systems by combining mechanical design, perception, planning, control, and simulation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤖 Areas I'm Exploring
+
+- Robotics & Mechatronics
+- Autonomous Systems
+- Robot Manipulation
+- ROS 2
+- Computer Vision
+- Control Systems
+- Robot Simulation & Learning
+
+## 🛠️ Tools & Technologies
+
+**Robotics:** ROS 2, Gazebo, RViz  
+**Programming:** Python, MATLAB  
+**Design:** SolidWorks, Creo, Siemens NX  
+**Simulation & Analysis:** MATLAB, FEA  
+**Currently Learning:** NVIDIA Isaac Sim / Isaac Lab
+
+## 🔬 Current Work
+
+### MARS Lab — Purdue University
+Working on robotics and dexterous manipulation projects involving robotic hand systems, simulation, and experimental development.
+
+## 🚀 Projects
+
+I'm currently building and documenting projects in:
+
+- Autonomous mobile robot navigation
+- Robotic manipulation and dexterous hands
+- Industrial robotics and automation
+- Robot simulation
+- Mechanical design and analysis
+
+Projects and documentation will be added here as they develop.
+
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/jonessr/)
